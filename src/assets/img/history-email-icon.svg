@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31" height="31" viewBox="0 0 31 31">
+            <g id="Group_8_Copy" data-name="Group 8 Copy" transform="translate(5 5)">
+                <g id="Oval">
+                <circle id="Oval-2" data-name="Oval" cx="10.5" cy="10.5" r="10.5" transform="translate(0 0)" fill="#fff"/>
+                <g id="Oval-3" data-name="Oval" transform="translate(0 0)" fill="rgba(189,204,210,0.4)" stroke="#fff" stroke-miterlimit="10" stroke-width="5">
+                    <circle cx="10.5" cy="10.5" r="10.5" stroke="none"/>
+                    <circle cx="10.5" cy="10.5" r="13" fill="none"/>
+                </g>
+                </g>
+                <path id="Combined_Shape" data-name="Combined Shape" d="M.563,7.875A.531.531,0,0,1,0,7.313V2.643L4.218,5.006a.7.7,0,0,0,.563,0L9,2.643V7.313a.531.531,0,0,1-.562.563ZM0,1.35V.563A.531.531,0,0,1,.563,0H8.438A.531.531,0,0,1,9,.563v.843L4.5,3.881Z" transform="translate(6 6.6)" fill="#6d8790"/>
+            </g>
+        </svg>

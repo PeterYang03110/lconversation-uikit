@@ -1,0 +1,32 @@
+<svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="11.27"
+                height="11.5"
+                viewBox="0 0 11.27 11.5"
+            >
+                <g
+                    id="Group_5"
+                    data-name="Group 5"
+                    transform="translate(-6.63 -5)"
+                >
+                    <path
+                        id="Path"
+                        d="M2.01,10.5l.855-2.43H6.96L7.8,10.5H9.84L6,0H3.84L0,10.5Z"
+                        transform="translate(7.346 5.5)"
+                        fill="#6d8790"
+                        stroke="rgba(0,0,0,0)"
+                        stroke-miterlimit="10"
+                        stroke-width="1"
+                    />
+                    <path
+                        id="Path-2"
+                        data-name="Path"
+                        d="M3.045,4.365H0L1.515,0Z"
+                        transform="translate(10.734 7.705)"
+                        fill="#f6fafb"
+                        stroke="rgba(0,0,0,0)"
+                        stroke-miterlimit="10"
+                        stroke-width="1"
+                    />
+                </g>
+            </svg>
